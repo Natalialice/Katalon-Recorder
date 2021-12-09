@@ -34,7 +34,7 @@
             "button": 0
         },
         {
-            "description": "type Natali",
+            "description": "type username",
             "wait": {
                 "waitFor": "page_complete"
             },
@@ -47,7 +47,7 @@
                 ]
             },
             "type": "keystrokes",
-            "textValue": "Natali",
+            "textValue": "username",
             "simulateBlurEvent": true,
             "masked": false
         },
@@ -68,7 +68,7 @@
             "button": 0
         },
         {
-            "description": "type 1111",
+            "description": "type password",
             "wait": {
                 "waitFor": "page_complete"
             },
@@ -81,7 +81,7 @@
                 ]
             },
             "type": "keystrokes",
-            "textValue": "1111",
+            "textValue": "password",
             "simulateBlurEvent": true,
             "masked": false,
             "simulateReturnKey": true
